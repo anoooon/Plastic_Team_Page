@@ -1,0 +1,14 @@
+.member {
+    border: 1px solid #747474;
+    padding: 14px;
+    margin: 14px;
+    display: inline-block;
+    text-align: center;
+    width: 220px;
+    border-radius: 8px;
+}
+
+.member img {
+    width: 100%;
+    border-radius: 8px;
+}

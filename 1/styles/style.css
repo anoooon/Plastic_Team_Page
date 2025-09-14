@@ -1,0 +1,74 @@
+/* p {
+  color: red;
+  width: 500px;
+  border: 1px solid black;
+}
+
+p {
+  font-family: sans-serif;
+  color: red;
+}
+
+li {
+  background-color: greenyellow;
+  border: 1px solid black;
+  margin-bottom: 5px;
+}
+  */
+.card {
+  margin: 20px;               /* 外边距：与其他元素的间隔 */
+  padding: 20px;              /* 内边距：内容和边框的距离 */
+  background-color: #d3b4df;  /* 背景色 */
+  border-radius: 15px;        /* 圆角 */
+}
+
+
+img {
+  border-radius: 12px;
+  /* round */
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+  /* shadow */
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+html {
+  /* px means "pixels". The base font size is now 10 pixels high */
+  font-size: 10px;
+  /* Replace PLACEHOLDER with the font-family property value you got from Google Fonts */
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #6f599c;
+  text-shadow: 3px 3px 1px black;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: #9999CC;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #fff8fc;
+  padding: 0 20px 20px 20px;
+}
