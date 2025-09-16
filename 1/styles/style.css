@@ -14,12 +14,12 @@ li {
   border: 1px solid black;
   margin-bottom: 5px;
 }
-  */
+*/
 .card {
-  margin: 20px;               /* 外边距：与其他元素的间隔 */
-  padding: 20px;              /* 内边距：内容和边框的距离 */
-  background-color: #d3b4df;  /* 背景色 */
-  border-radius: 15px;        /* 圆角 */
+  margin: 20px;
+  padding: 20px;
+  background-color: #d3b4df;
+  border-radius: 15px;
 }
 
 
@@ -40,7 +40,7 @@ html {
   /* px means "pixels". The base font size is now 10 pixels high */
   font-size: 10px;
   /* Replace PLACEHOLDER with the font-family property value you got from Google Fonts */
-  font-family: "Roboto", sans-serif;
+  font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 h1 {
@@ -57,6 +57,7 @@ h1 {
 
 p,
 li {
+  font-family: "Candara";
   font-size: 16px;
   line-height: 2;
   letter-spacing: 1px;
